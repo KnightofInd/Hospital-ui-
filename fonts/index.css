@@ -58,6 +58,13 @@
 .visual-image{
     margin-top: 8.9rem;
 }
+
+.oshead{
+  
+    text-align: center;
+    margin-top: 3.5rem;
+    margin-bottom: 2.5rem;
+    font-size: 1.8rem;}
 /*`C`o`de for the cards in the main content */
 .card-title {
     color: #262626;
